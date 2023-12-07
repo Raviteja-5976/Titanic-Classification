@@ -1,0 +1,7 @@
+Package install command -- pip install Package_name
+
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
